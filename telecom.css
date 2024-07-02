@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(178, 178, 202);
+
+}
+
+
+h2{
+    font-family: arial;
+    font-size: 30px;
+    background-color: rgb(178, 178, 202);
+    display: flex;
+}
+
+
+
+p{
+    
+    font-family: arial;
+    font-size: 25px;
+}
+
+.pain{
+    float: right;
+width: 500px;
+bottom: 20px;
+margin: 35px;
+}
+
+
+@media  screen and ( max-width:1000px){
+    h2{
+
+width: 100%;
+background-color: rgb(180, 173, 173);
+font-family: arial;
+font-size: 23px;
+font-family: arial;
+width:auto;
+    }
+    .luis{
+        width: 100%;
+        
+    }
+    .pain{
+        width: 25%;
+    }
+
+
+}
+
+

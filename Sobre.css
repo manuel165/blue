@@ -1,0 +1,106 @@
+
+
+@media  screen and ( max-width:1000px) {
+
+}
+
+h1{
+
+    font-family: arial;
+    font-size: 40px;
+    width:auto;
+    
+    
+
+     }
+
+     .jose{
+        position: absolute;
+        width: 100px;
+        top: 0px;
+        right: 0px;
+     }
+
+
+     body{
+        background-image: url(Fotos/pic-10.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        
+         }
+
+         .manuel{
+            font-family: arial;
+            font-size: 20px;
+            margin: 0;
+            background-color: rgb(238, 69, 69);
+            
+
+         }
+
+
+
+*{
+    
+    box-sizing: border-box;
+}
+
+nav{
+    background-color:black;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+nav li a:hover{
+    background-color: blue;
+}
+
+.dropdown-menu{
+    position: absolute;
+    box-shadow: 0 0 2px black;
+    display: none;
+}
+
+.dropdown-menu a{
+    display: block;
+    color: black;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+
+
+
+.img__king
+{
+    float: right;
+    width: 200px;
+}
+
+.pull{
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    background-color: rgb(180, 173, 173);
+    font-family: arial;
+    font-size: 18px;
+
+
+ }
+
+ 
+
+
+
